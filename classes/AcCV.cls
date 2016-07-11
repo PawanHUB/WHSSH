@@ -6,6 +6,5 @@ Account acc112 = new Account();
 acc112.Name = name;
 return acc112;
 
-//Modified by Demo one 2
 }
 }
