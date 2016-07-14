@@ -4,6 +4,10 @@
         <apexClass>AcCnTest3</apexClass>
         <enabled>false</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>Assh</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <fieldPermissions>
         <editable>false</editable>
         <field>Event.ShaEZCF__c</field>
