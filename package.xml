@@ -34,6 +34,14 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>Account.ShaEZMR</members>
+        <name>MatchingRule</name>
+    </types>
+    <types>
+        <members>CommunityTestAR.ModerationRuleTestAR</members>
+        <name>ModerationRule</name>
+    </types>
+    <types>
         <members>TestSet</members>
         <name>PermissionSet</name>
     </types>
