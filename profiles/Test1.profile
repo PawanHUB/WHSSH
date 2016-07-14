@@ -4,6 +4,10 @@
         <apexClass>Assh</apexClass>
         <enabled>false</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>CreatAc01</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>true</custom>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
