@@ -11,6 +11,7 @@
     </types>
     <types>
         <members>SiteHeader</members>
+        <members>SiteLogin</members>
         <name>ApexComponent</name>
     </types>
     <types>
