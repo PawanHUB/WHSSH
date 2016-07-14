@@ -44,6 +44,7 @@
         <name>ModerationRule</name>
     </types>
     <types>
+        <members>PavEZPS2</members>
         <members>TestSet</members>
         <name>PermissionSet</name>
     </types>
@@ -52,6 +53,7 @@
         <members>ShaEZNew</members>
         <members>Test1</members>
         <members>TestCreateProfile</members>
+        <members>TestProfile5</members>
         <name>Profile</name>
     </types>
 </Package>
