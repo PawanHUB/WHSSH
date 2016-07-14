@@ -5,6 +5,14 @@
         <enabled>false</enabled>
     </classAccesses>
     <custom>true</custom>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>EZ2__c.EZ2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <layoutAssignments>
+        <layout>AddNew__c-AddNew Layout</layout>
+    </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>false</allowDelete>
@@ -14,6 +22,10 @@
         <object>Add__c</object>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
+    <tabVisibilities>
+        <tab>CheckDiff__c</tab>
+        <visibility>DefaultOff</visibility>
+    </tabVisibilities>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
