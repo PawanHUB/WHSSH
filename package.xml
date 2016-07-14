@@ -9,6 +9,10 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>AnswersHome</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
         <members>EZ2__c.EZ2__c</members>
         <name>CustomField</name>
     </types>

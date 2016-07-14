@@ -22,6 +22,10 @@
         <object>Add__c</object>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
+    <pageAccesses>
+        <apexPage>AnswersHome</apexPage>
+        <enabled>false</enabled>
+    </pageAccesses>
     <tabVisibilities>
         <tab>CheckDiff__c</tab>
         <visibility>DefaultOff</visibility>
