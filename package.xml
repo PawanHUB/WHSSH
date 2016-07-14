@@ -9,6 +9,10 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>SiteHeader</members>
+        <name>ApexComponent</name>
+    </types>
+    <types>
         <members>AnswersHome</members>
         <name>ApexPage</name>
     </types>
