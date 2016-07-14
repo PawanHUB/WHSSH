@@ -9,9 +9,21 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>EZ2__c.EZ2__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
         <members>AddNew__c</members>
         <members>BitBucket__c</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>CheckDiff__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>AddNew__c-AddNew Layout</members>
+        <name>Layout</name>
     </types>
     <types>
         <members>ATESTProfile1</members>
