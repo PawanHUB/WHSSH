@@ -34,7 +34,12 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>TestSet</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
         <members>ATESTProfile1</members>
+        <members>ShaEZNew</members>
         <name>Profile</name>
     </types>
 </Package>
