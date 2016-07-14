@@ -48,6 +48,8 @@
     <types>
         <members>ATESTProfile1</members>
         <members>ShaEZNew</members>
+        <members>Test1</members>
+        <members>TestCreateProfile</members>
         <name>Profile</name>
     </types>
 </Package>
