@@ -9,6 +9,7 @@
         <members>Assh</members>
         <members>BI</members>
         <members>BitBucket</members>
+        <members>CreatAc031</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -27,6 +28,7 @@
     <types>
         <members>AddNew__c</members>
         <members>BitBucket__c</members>
+        <members>EZ__c</members>
         <name>CustomObject</name>
     </types>
     <types>
