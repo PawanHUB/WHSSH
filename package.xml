@@ -11,6 +11,8 @@
         <members>Assh</members>
         <members>BI</members>
         <members>BitBucket</members>
+        <members>CommunitiesLandingController</members>
+        <members>CommunitiesLandingControllerTest</members>
         <members>CreatAc01</members>
         <members>CreatAc011</members>
         <members>CreatAc031</members>
