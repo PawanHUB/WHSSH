@@ -43,6 +43,7 @@
         <members>AnswersHome</members>
         <members>CommunitiesLogin</members>
         <members>Exception</members>
+        <members>InMaintenance</members>
         <name>ApexPage</name>
     </types>
     <types>
