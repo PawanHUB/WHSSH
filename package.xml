@@ -3,6 +3,7 @@
     <version>30.0</version>
     <types>
         <members>AcC123</members>
+        <members>AcCV</members>
         <members>Assh</members>
         <name>ApexClass</name>
     </types>
