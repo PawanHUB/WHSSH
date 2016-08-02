@@ -20,6 +20,7 @@
         <members>CreatingAccount20</members>
         <members>CreatingAccount25</members>
         <members>CreatingAccount5</members>
+        <members>SiteRegisterControllerTest</members>
         <name>ApexClass</name>
     </types>
 </Package>
