@@ -29,4 +29,8 @@
         <members>SiteRegisterControllerTest</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>IdeasHome</members>
+        <name>ApexPage</name>
+    </types>
 </Package>
