@@ -19,6 +19,7 @@
         <members>CreatingAccount18</members>
         <members>CreatingAccount20</members>
         <members>CreatingAccount25</members>
+        <members>CreatingAccount5</members>
         <name>ApexClass</name>
     </types>
 </Package>
