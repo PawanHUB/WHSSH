@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customLabels>
+        <label><!-- Goal setting1 --></label>
+        <name>Goal_setting</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Investor Checklist --></label>
+        <name>Investor_Notes</name>
+    </customLabels>
+    <globalPicklists>
+        <name>TestGlobalPicklist</name>
+        <picklistValues>
+            <masterLabel>Picklist 199</masterLabel>
+            <translation><!-- Picklist 199 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Picklist1</masterLabel>
+            <translation><!-- Picklist1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Picklist10</masterLabel>
+            <translation><!-- Picklist10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Picklist11</masterLabel>
+            <translation><!-- Picklist11 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Picklist12</masterLabel>
+            <translation><!-- Picklist12 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Picklist13</masterLabel>
+            <translation><!-- Picklist13 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Picklist14</masterLabel>
+            <translation><!-- Picklist14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Picklist2</masterLabel>
+            <translation><!-- Picklist2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Picklist3</masterLabel>
+            <translation><!-- Picklist3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Picklist4</masterLabel>
+            <translation><!-- Picklist4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Picklist5</masterLabel>
+            <translation><!-- Picklist5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Picklist6</masterLabel>
+            <translation><!-- Picklist6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Picklist7</masterLabel>
+            <translation><!-- Picklist7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Picklist8</masterLabel>
+            <translation><!-- Picklist8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Picklist9</masterLabel>
+            <translation><!-- Picklist9 --></translation>
+        </picklistValues>
+    </globalPicklists>
+    <quickActions>
+        <label><!-- LogACall --></label>
+        <name>LogACall</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewAccount --></label>
+        <name>NewAccount</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewCase --></label>
+        <name>NewCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewContact --></label>
+        <name>NewContact</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewEvent --></label>
+        <name>NewEvent</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewGroup --></label>
+        <name>NewGroup</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewLead --></label>
+        <name>NewLead</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewNote --></label>
+        <name>NewNote</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewOpportunity --></label>
+        <name>NewOpportunity</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewTask --></label>
+        <name>NewTask</name>
+    </quickActions>
+    <reportTypes>
+        <description><!-- Accounts with Entitlements with Contacts --></description>
+        <label><!-- Accounts with Entitlements with Contacts --></label>
+        <name>Accounts_with_Entitlements_with_Contacts</name>
+        <sections>
+            <label><!-- Accounts --></label>
+            <name>Accounts</name>
+        </sections>
+        <sections>
+            <label><!-- Contacts --></label>
+            <name>Contacts</name>
+        </sections>
+        <sections>
+            <label><!-- Entitlements --></label>
+            <name>Entitlements</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Service Contracts with Contract Line Items --></description>
+        <label><!-- Service Contracts with Contract Line Items --></label>
+        <name>Service_Contracts_with_Contract_Line_Items</name>
+        <sections>
+            <label><!-- Contract Line Items --></label>
+            <name>Contract Line Items</name>
+        </sections>
+        <sections>
+            <label><!-- Service Contracts --></label>
+            <name>Service Contracts</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Service Contracts with Entitlements --></description>
+        <label><!-- Service Contracts with Entitlements --></label>
+        <name>Service_Contracts_with_Entitlements</name>
+        <sections>
+            <label><!-- Entitlements --></label>
+            <name>Entitlements</name>
+        </sections>
+        <sections>
+            <label><!-- Service Contracts --></label>
+            <name>Service Contracts</name>
+        </sections>
+    </reportTypes>
+</Translations>
