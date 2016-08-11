@@ -16,7 +16,21 @@
         <field>EZ2__c.EZ4__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>EZ2__c.EZ__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>EZTest__c.EZTestFieldDemo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>EZ__c.EZ2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>EZ__c.Enhance2__c</field>
@@ -47,21 +61,6 @@
         <field>ShaPavObj__c.ShaEZCF2__c</field>
         <readable>true</readable>
     </fieldPermissions>
-	<fieldPermissions>
-        <editable>true</editable>
-        <field>EZ2__c.EZ__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>EZTest__c.EZTestFieldDemo__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>EZ__c.EZ2__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>ShaPavObj__c.ShaEZCFN__c</field>
@@ -78,12 +77,6 @@
         <visible>true</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
-	
-	
-	
-	
-	
-	
         <default>false</default>
         <recordType>ShaPavObj__c.ShaEZRTN</recordType>
         <visible>true</visible>
@@ -97,7 +90,18 @@
         <enabled>true</enabled>
         <name>AllowViewKnowledge</name>
     </userPermissions>
-    
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ApiEnabled</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>AssignTopics</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ChatterEditOwnPost</name>
+    </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
         <name>ChatterFileLink</name>
@@ -118,18 +122,6 @@
         <enabled>true</enabled>
         <name>ConvertLeads</name>
     </userPermissions>
-	<userPermissions>
-        <enabled>true</enabled>
-        <name>ApiEnabled</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>AssignTopics</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ChatterEditOwnPost</name>
-    </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
         <name>CreateCustomizeFilters</name>
@@ -137,7 +129,15 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>CreateCustomizeReports</name>
-    
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>CreateTopics</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>DistributeFromPersWksp</name>
+    </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
         <name>EditEvent</name>
@@ -158,15 +158,6 @@
         <enabled>true</enabled>
         <name>EmailMass</name>
     </userPermissions>
-	</userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>CreateTopics</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>DistributeFromPersWksp</name>
-    </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
         <name>EmailSingle</name>
@@ -179,7 +170,18 @@
         <enabled>true</enabled>
         <name>ExportReport</name>
     </userPermissions>
-    
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ImportPersonal</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>LightningExperienceUser</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ManageCssUsers</name>
+    </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
         <name>MassInlineEdit</name>
@@ -195,18 +197,6 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>SendSitRequests</name>
-    </userPermissions>
-	<userPermissions>
-        <enabled>true</enabled>
-        <name>ImportPersonal</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>LightningExperienceUser</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ManageCssUsers</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
