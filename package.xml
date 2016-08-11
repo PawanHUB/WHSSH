@@ -363,6 +363,8 @@
     <types>
         <members>Apex_Debugger</members>
         <members>KnowledgeOne</members>
+        <members>PavEZPS</members>
+        <members>PavEZPS2</members>
         <name>PermissionSet</name>
     </types>
     <types>
@@ -395,8 +397,12 @@
         <members>Partner App Subscription User</members>
         <members>Partner Community Login User</members>
         <members>Partner Community User</members>
+        <members>PavEZProfile</members>
+        <members>PavEZProfile2</members>
         <members>PlatformPortal</members>
         <members>ReadOnly</members>
+        <members>ShaEZNew</members>
+        <members>ShaEZProfiles1</members>
         <members>Silver Partner User</members>
         <members>SolutionManager</members>
         <members>Standard</members>
