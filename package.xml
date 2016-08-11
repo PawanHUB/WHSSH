@@ -226,6 +226,7 @@
         <name>FlexiPage</name>
     </types>
     <types>
+        <members>GlobalPicklist37</members>
         <members>TestGlobalPicklist</members>
         <name>GlobalPicklist</name>
     </types>
