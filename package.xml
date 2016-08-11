@@ -78,12 +78,15 @@
         <name>ModerationRule</name>
     </types>
     <types>
+        <members>PavEZPS</members>
         <members>PavEZPS2</members>
         <members>TestSet</members>
         <name>PermissionSet</name>
     </types>
     <types>
         <members>ATESTProfile1</members>
+        <members>PavEZProfile</members>
+        <members>PavEZProfile2</members>
         <members>ShaEZNew</members>
         <members>Test1</members>
         <members>TestCreateProfile</members>
