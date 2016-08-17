@@ -42,6 +42,7 @@
         <members>LightningSelfRegisterController</members>
         <members>MyProfilePageController</members>
         <members>MyProfilePageControllerTest</members>
+        <members>RTCTest1</members>
         <members>SiteLoginController</members>
         <members>SiteLoginControllerTest</members>
         <members>SiteRegisterController</members>
