@@ -177,6 +177,7 @@
     </types>
     <types>
         <members>Account_Settings__mdt</members>
+        <members>Add__c</members>
         <members>Customsetting1_0__c</members>
         <members>Expense__c</members>
         <members>Global_Object__x</members>
