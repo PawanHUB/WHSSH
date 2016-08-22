@@ -45,6 +45,7 @@
         <members>MyProfilePageControllerTest</members>
         <members>RTCTest1</members>
         <members>RTCTest2</members>
+        <members>RTCTest3</members>
         <members>SiteLoginController</members>
         <members>SiteLoginControllerTest</members>
         <members>SiteRegisterController</members>
