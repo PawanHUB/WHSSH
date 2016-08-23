@@ -171,6 +171,7 @@
         <members>Opportunity.Propecting_TS__c</members>
         <members>Opportunity.TrackingNumber__c</members>
         <members>TestObject__c.TestField__c</members>
+        <members>customsettingtest__c.Testcustomfield__c</members>
         <name>CustomField</name>
     </types>
     <types>
