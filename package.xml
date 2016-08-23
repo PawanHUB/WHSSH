@@ -185,6 +185,7 @@
         <members>Customsetting1_0__c</members>
         <members>Expense__c</members>
         <members>Global_Object__x</members>
+        <members>MulCommits2__c</members>
         <members>TestObject__c</members>
         <members>customsetting2__c</members>
         <name>CustomObject</name>
