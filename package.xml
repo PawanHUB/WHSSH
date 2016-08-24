@@ -4,8 +4,11 @@
     <types>
         <members>AcC123</members>
         <members>AcCV</members>
+        <members>AcCnTest2</members>
+        <members>AcCnTest3</members>
         <members>AccTest4</members>
         <members>AccTest5</members>
+        <members>AccnTest1</members>
         <members>AccnTestMulti</members>
         <members>Assh</members>
         <members>ChangePasswordController</members>
@@ -91,6 +94,10 @@
         <name>AssignmentRule</name>
     </types>
     <types>
+        <members>Case</members>
+        <name>AssignmentRules</name>
+    </types>
+    <types>
         <members>Expensetracker</members>
         <members>TestLight</members>
         <members>TestLight1</members>
@@ -140,6 +147,8 @@
         <members>Account.SLA__c</members>
         <members>Account.UpsellOpportunity__c</members>
         <members>Account_Settings__mdt.Md_Email__c</members>
+        <members>BitBucket__c.Phone_no__c</members>
+        <members>BitBucket__c.Updated_by__c</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.PotentialLiability__c</members>
         <members>Case.Product__c</members>
@@ -164,6 +173,8 @@
         <members>Lead.ProductInterest__c</members>
         <members>Lead.SICCode__c</members>
         <members>Metric.OrigMetricId__c</members>
+        <members>MulCommits2__c.Field3__c</members>
+        <members>MulCommits2__c.MulCommits2Field__c</members>
         <members>Opportunity.CurrentGenerators__c</members>
         <members>Opportunity.DeliveryInstallationStatus__c</members>
         <members>Opportunity.MainCompetitors__c</members>
@@ -187,6 +198,7 @@
         <members>Expense__c</members>
         <members>Global_Object__x</members>
         <members>MulCommits2__c</members>
+        <members>OpportunityLineItem</members>
         <members>TestObject__c</members>
         <members>customsetting2__c</members>
         <name>CustomObject</name>
@@ -238,18 +250,8 @@
         <name>FlexiPage</name>
     </types>
     <types>
-        <members>GlobalPicklist37</members>
-        <members>TestGlobalPicklist</members>
-        <name>GlobalPicklist</name>
-    </types>
-    <types>
         <members>DE Default</members>
         <name>HomePageLayout</name>
-    </types>
-    <types>
-        <members>Internal.Contentcriteria2</members>
-        <members>Internal.Moderationtest</members>
-        <name>KeywordList</name>
     </types>
     <types>
         <members>Account-Account %28Marketing%29 Layout</members>
@@ -305,11 +307,6 @@
         <members>Account.NewLastWeek</members>
         <members>Account.NewThisWeek</members>
         <members>Account.PlatinumandGoldSLACustomers</members>
-        <members>Activity.AllActivities</members>
-        <members>Activity.MyActivities</members>
-        <members>Activity.TodaysTasks</members>
-        <members>Activity.UpcomingEvents</members>
-        <members>Asset.AllAssets</members>
         <members>Campaign.AllActiveCampaigns</members>
         <members>Campaign.MyActiveCampaigns</members>
         <members>Case.AllClosedCases</members>
@@ -321,13 +318,6 @@
         <members>Contact.MyContacts</members>
         <members>Contact.NewLastWeek</members>
         <members>Contact.NewThisWeek</members>
-        <members>Contract.AllActivatedContracts</members>
-        <members>Contract.AllContracts</members>
-        <members>Contract.AllDraftContracts</members>
-        <members>Contract.AllInApprovalContracts</members>
-        <members>Contract.MyActivatedContracts</members>
-        <members>Contract.MyDraftContracts</members>
-        <members>Contract.MyInApprovalContracts</members>
         <members>Expense__c.All</members>
         <members>Lead.AllOpenLeads</members>
         <members>Lead.MyUnreadLeads</members>
@@ -342,16 +332,7 @@
         <members>Opportunity.NewThisWeek</members>
         <members>Opportunity.Private</members>
         <members>Opportunity.Won</members>
-        <members>Order.AllActivatedOrders</members>
-        <members>Order.AllDraftOrders</members>
-        <members>Order.AllOrders</members>
-        <members>Product2.AllProducts</members>
-        <members>Solution.AllReviewedSolutions</members>
-        <members>Solution.AllUnreviewedSolutions</members>
         <members>TestObject__c.All</members>
-        <members>User.ActiveUsers</members>
-        <members>User.AdminUsers</members>
-        <members>User.AllUsers</members>
         <name>ListView</name>
     </types>
     <types>
@@ -359,19 +340,14 @@
         <name>ManagedTopics</name>
     </types>
     <types>
-        <members>Account.Standard_Account_Match_Rule_v1_0</members>
-        <members>Contact.Standard_Contact_Match_Rule_v1_1</members>
-        <members>Lead.Standard_Lead_Match_Rule_v1_0</members>
-        <name>MatchingRule</name>
+        <members>Account</members>
+        <members>Contact</members>
+        <members>Lead</members>
+        <name>MatchingRules</name>
     </types>
     <types>
         <members>Test</members>
         <name>MilestoneType</name>
-    </types>
-    <types>
-        <members>Internal.rateruletest</members>
-        <members>Internal.testmodereationrules</members>
-        <name>ModerationRule</name>
     </types>
     <types>
         <members>Apex_Debugger</members>
@@ -426,10 +402,6 @@
         <name>Profile</name>
     </types>
     <types>
-        <members>Case.NewChildCase</members>
-        <members>CollaborationGroup.NewGroupMember</members>
-        <members>CollaborationGroup.NewGroupRecord</members>
-        <members>FeedItem.NewTaskFromFeedItem</members>
         <members>LogACall</members>
         <members>NewAccount</members>
         <members>NewCase</members>
@@ -440,18 +412,6 @@
         <members>NewNote</members>
         <members>NewOpportunity</members>
         <members>NewTask</members>
-        <members>Task.Defer</members>
-        <members>Task.Defer_0</members>
-        <members>Task.Defer_1</members>
-        <members>Task.EditDescription</members>
-        <members>Task.EditDescription_0</members>
-        <members>Task.EditDescription_1</members>
-        <members>Task.UpdatePriority</members>
-        <members>Task.UpdatePriority_0</members>
-        <members>Task.UpdatePriority_1</members>
-        <members>Task.UpdateStatus</members>
-        <members>Task.UpdateStatus_0</members>
-        <members>Task.UpdateStatus_1</members>
         <name>QuickAction</name>
     </types>
     <types>
@@ -487,7 +447,10 @@
         <name>Translations</name>
     </types>
     <types>
+        <members>BitBucket__c.TestDeactivate</members>
         <members>Expense__c.Name_Required</members>
+        <members>MulCommits2__c.MulTestRule</members>
+        <members>MulCommits2__c.Rule2</members>
         <name>ValidationRule</name>
     </types>
     <types>
