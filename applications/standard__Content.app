@@ -6,6 +6,4 @@
     <tab>standard-ContentSearch</tab>
     <tab>standard-ContentSubscriptions</tab>
     <tab>standard-ContentFavorites</tab>
-    <tab>Expense__c</tab>
-    <tab>TestObject__c</tab>
 </CustomApplication>

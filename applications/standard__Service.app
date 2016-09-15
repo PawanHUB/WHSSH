@@ -8,6 +8,4 @@
     <tab>standard-Solution</tab>
     <tab>standard-report</tab>
     <tab>standard-Dashboard</tab>
-    <tab>Expense__c</tab>
-    <tab>TestObject__c</tab>
 </CustomApplication>

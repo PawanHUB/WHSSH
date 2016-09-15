@@ -2,9 +2,9 @@
 <AssignmentRules xmlns="http://soap.sforce.com/2006/04/metadata">
     <assignmentRule>
         <fullName>Standard</fullName>
-        <active>false</active>
+        <active>true</active>
         <ruleEntry>
-            <assignedTo>testorg2@autorabit.com</assignedTo>
+            <assignedTo>ar-sf-prod-org4@autorabit.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
@@ -23,7 +23,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>testorg2@autorabit.com</assignedTo>
+            <assignedTo>ar-sf-prod-org4@autorabit.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
@@ -42,7 +42,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>testorg2@autorabit.com</assignedTo>
+            <assignedTo>ar-sf-prod-org4@autorabit.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
@@ -61,7 +61,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>testorg2@autorabit.com</assignedTo>
+            <assignedTo>ar-sf-prod-org4@autorabit.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
@@ -80,7 +80,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>testorg2@autorabit.com</assignedTo>
+            <assignedTo>ar-sf-prod-org4@autorabit.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.Type</field>

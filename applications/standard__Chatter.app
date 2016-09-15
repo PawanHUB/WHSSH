@@ -6,6 +6,4 @@
     <tab>standard-OtherUserProfile</tab>
     <tab>standard-CollaborationGroup</tab>
     <tab>standard-File</tab>
-    <tab>Expense__c</tab>
-    <tab>TestObject__c</tab>
 </CustomApplication>

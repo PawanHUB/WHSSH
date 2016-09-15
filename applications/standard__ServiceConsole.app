@@ -173,15 +173,7 @@
     <tab>standard-Opportunity</tab>
     <tab>standard-Lead</tab>
     <tab>standard-Knowledge</tab>
-    <tab>Expense__c</tab>
-    <tab>TestObject__c</tab>
     <workspaceMappings>
-        <mapping>
-            <tab>Expense__c</tab>
-        </mapping>
-        <mapping>
-            <tab>TestObject__c</tab>
-        </mapping>
         <mapping>
             <tab>standard-Account</tab>
         </mapping>

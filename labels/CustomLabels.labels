@@ -1,21 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
-        <fullName>Goal_setting</fullName>
+        <fullName>ARSF_Customlabel1</fullName>
+        <categories>Test</categories>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>Goal setting1</shortDescription>
-        <value>goal 1
-goal 2</value>
+        <shortDescription>ARSF-Customlabel1`</shortDescription>
+        <value>2</value>
     </labels>
     <labels>
-        <fullName>Investor_Notes</fullName>
+        <fullName>AR_SfCustomlabel2</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>Investor Checklist</shortDescription>
-        <value>Apply Listing
-Showing
-Application
-Rent Dunning</value>
+        <shortDescription>AR-SfCustomlabel2</shortDescription>
+        <value>2</value>
+    </labels>
+    <labels>
+        <fullName>ARclabel3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ARclabel3</shortDescription>
+        <value>2</value>
+    </labels>
+    <labels>
+        <fullName>CustomLabelTest1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CustomLabelTest1</shortDescription>
+        <value>TEST1</value>
     </labels>
 </CustomLabels>
