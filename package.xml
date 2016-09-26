@@ -1187,12 +1187,14 @@
         <name>CustomLabels</name>
     </types>
     <types>
+        <members>ACC1Obj1__c</members>
         <members>ARSF_AccObj1__c</members>
         <members>ARSF_Object2__c</members>
         <members>Account</members>
         <members>AccountCleanInfo</members>
         <members>AccountContactRole</members>
         <members>Activity</members>
+        <members>AddNew__c</members>
         <members>Add__c</members>
         <members>Asset</members>
         <members>AssistantProgress</members>
