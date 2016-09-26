@@ -1198,6 +1198,8 @@
         <members>Add__c</members>
         <members>Asset</members>
         <members>AssistantProgress</members>
+        <members>CAccObj1__c</members>
+        <members>CAccObj7__c</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
         <members>Case</members>
