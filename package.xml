@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>37.0</version>
     <types>
         <members>ARApexACclass2</members>
         <members>ARApexclass117</members>
@@ -8,6 +9,7 @@
         <members>ARApexclass13</members>
         <members>ARApexclass15</members>
         <members>ARApexclass31</members>
+        <members>ATESTFizzBuzz</members>
         <members>dsfs__ARC4</members>
         <members>dsfs__ARC4Test</members>
         <members>dsfs__AdminController</members>
@@ -1191,6 +1193,7 @@
         <members>AccountCleanInfo</members>
         <members>AccountContactRole</members>
         <members>Activity</members>
+        <members>Add__c</members>
         <members>Asset</members>
         <members>AssistantProgress</members>
         <members>Campaign</members>
@@ -1705,6 +1708,34 @@
         <name>Role</name>
     </types>
     <types>
+        <members>Account</members>
+        <members>Activities</members>
+        <members>Address</members>
+        <members>BusinessHours</members>
+        <members>Case</members>
+        <members>ChatterAnswers</members>
+        <members>Company</members>
+        <members>Contract</members>
+        <members>Entitlement</members>
+        <members>Forecasting</members>
+        <members>Ideas</members>
+        <members>Knowledge</members>
+        <members>LeadConvert</members>
+        <members>LiveAgent</members>
+        <members>Mobile</members>
+        <members>Name</members>
+        <members>Opportunity</members>
+        <members>Order</members>
+        <members>OrgPreference</members>
+        <members>PathAssistant</members>
+        <members>PersonalJourney</members>
+        <members>Product</members>
+        <members>Quote</members>
+        <members>Search</members>
+        <members>Security</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>ARSF_AccObj1__c.ARSf_sharingCriteriaRule1</members>
         <name>SharingCriteriaRule</name>
     </types>
@@ -1851,33 +1882,4 @@
         <members>dsfs__DocuSign_Status__c</members>
         <name>Workflow</name>
     </types>
-    <types>
-        <members>Account</members>
-        <members>Activities</members>
-        <members>Address</members>
-        <members>BusinessHours</members>
-        <members>Case</members>
-        <members>ChatterAnswers</members>
-        <members>Company</members>
-        <members>Contract</members>
-        <members>Entitlement</members>
-        <members>Forecasting</members>
-        <members>Ideas</members>
-        <members>Knowledge</members>
-        <members>LeadConvert</members>
-        <members>LiveAgent</members>
-        <members>Mobile</members>
-        <members>Name</members>
-        <members>Opportunity</members>
-        <members>Order</members>
-        <members>OrgPreference</members>
-        <members>PathAssistant</members>
-        <members>PersonalJourney</members>
-        <members>Product</members>
-        <members>Quote</members>
-        <members>Search</members>
-        <members>Security</members>
-        <name>Settings</name>
-    </types>
-    <version>37.0</version>
 </Package>
