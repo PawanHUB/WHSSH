@@ -47,47 +47,43 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <description>Test2</description>
+    <description>Multiple2</description>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
-    <enableSearch>false</enableSearch>
+    <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
-        <fullName>Phone_no__c</fullName>
-        <description>Test</description>
+        <fullName>Diff__c</fullName>
+        <defaultValue>&quot;* Indicates paperwork that should be filed in the hardcopy formula file.&quot;</defaultValue>
         <externalId>false</externalId>
-        <label>Phone no</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Phone</type>
-    </fields>
-    <fields>
-        <fullName>Updated_by__c</fullName>
-        <description>Snider</description>
-        <externalId>false</externalId>
-        <label>Updated by</label>
-        <length>25</length>
+        <label>Diff</label>
+        <length>254</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
         <unique>false</unique>
     </fields>
-    <label>BitBucket</label>
+    <label>CheckDiff</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
     <nameField>
-        <label>BitBucket Name</label>
+        <label>CheckDiff Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>BitBucket</pluralLabel>
+    <pluralLabel>CheckDiff</pluralLabel>
+    <recordTypes>
+        <fullName>ProfileComRT</fullName>
+        <active>true</active>
+        <description>Test</description>
+        <label>ProfileComRT</label>
+    </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
-    <validationRules>
-        <fullName>TestDeactivate</fullName>
-        <active>true</active>
-        <errorConditionFormula>LastModifiedBy.CompanyName  &lt;&gt; &quot;Pavan&quot;</errorConditionFormula>
-        <errorMessage>Test</errorMessage>
-    </validationRules>
 </CustomObject>

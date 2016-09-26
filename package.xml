@@ -1198,12 +1198,14 @@
         <members>Add__c</members>
         <members>Asset</members>
         <members>AssistantProgress</members>
+        <members>BitBucket__c</members>
         <members>CAccObj1__c</members>
         <members>CAccObj7__c</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
         <members>Case</members>
         <members>CaseContactRole</members>
+        <members>CheckDiff__c</members>
         <members>Contact</members>
         <members>ContactCleanInfo</members>
         <members>ContentVersion</members>
