@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>32.0</version>
+    <version>30.0</version>
     <types>
         <members>AcC123</members>
         <members>AcCV</members>
@@ -149,6 +149,15 @@
         <members>Expense__c</members>
         <members>TestObject__c</members>
         <name>CustomTab</name>
+    </types>
+    <types>
+        <members>TesttDashboard/TestDB</members>
+        <name>Dashboard</name>
+    </types>
+    <types>
+        <members>PublicFolder</members>
+        <members>PublicFolder/TestDocument.png</members>
+        <name>Document</name>
     </types>
     <types>
         <members>unfiled$public/CommunityChangePasswordEmailTemplate</members>
@@ -417,6 +426,10 @@
         <members>ApexDevNet</members>
         <members>DataManager_OrgVF_URL</members>
         <name>RemoteSiteSetting</name>
+    </types>
+    <types>
+        <members>unfiled$public/Test</members>
+        <name>Report</name>
     </types>
     <types>
         <members>Accounts_with_Entitlements_with_Contacts</members>
