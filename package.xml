@@ -1415,9 +1415,12 @@
     </types>
     <types>
         <members>DocuSign_Dashboard</members>
+        <members>TesttDashboard/TestDB</members>
         <name>Dashboard</name>
     </types>
     <types>
+        <members>PublicFolder</members>
+        <members>PublicFolder/TestDocument.png</members>
         <members>dsfs__DocuSign_Images</members>
         <members>dsfs__DocuSign_Images/dsfs__AppIcon.png</members>
         <members>dsfs__DocuSign_Images/dsfs__AppIcon_32px.png</members>
@@ -1692,6 +1695,7 @@
     </types>
     <types>
         <members>DocuSign_Reports</members>
+        <members>unfiled$public/Test</members>
         <name>Report</name>
     </types>
     <types>
