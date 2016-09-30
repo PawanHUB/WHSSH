@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>37.0</version>
+    <version>30.0</version>
     <types>
         <members>ARApexACclass2</members>
         <members>ARApexclass117</members>
@@ -1429,6 +1429,8 @@
     </types>
     <types>
         <members>unfiled$public</members>
+        <members>unfiled$public/CommunityForgotPasswordEmailTemplate</members>
+        <members>unfiled$public/CommunityWelcomeEmailTemplate</members>
         <members>unfiled$public/MarketingProductInquiryResponse</members>
         <members>unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE</members>
         <members>unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE</members>
