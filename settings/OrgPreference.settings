@@ -13,6 +13,14 @@
         <settingValue>false</settingValue>
     </preferences>
     <preferences>
+        <settingName>Translation</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>DisableParallelApexTesting</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
         <settingName>ChatterEnabled</settingName>
         <settingValue>true</settingValue>
     </preferences>
@@ -30,6 +38,10 @@
     </preferences>
     <preferences>
         <settingName>OfflineDraftsEnabled</settingName>
+        <settingValue>true</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>AsyncSaveEnabled</settingName>
         <settingValue>false</settingValue>
     </preferences>
     <preferences>

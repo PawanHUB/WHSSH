@@ -40,8 +40,4 @@
         <name>standard__Content</name>
         <type>CustomApplication</type>
     </appMenuItems>
-    <appMenuItems>
-        <name>dsfs__DocuSign_For_Salesforce</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
 </AppMenu>
